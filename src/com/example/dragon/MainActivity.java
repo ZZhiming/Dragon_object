@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
         final Button button1 = (Button) findViewById(R.id.button1);
         button1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                  x=1.1;
+                  //x=1.1; 
             }
         });  
 
